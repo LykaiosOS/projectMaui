@@ -1,2 +1,4 @@
 Added Blinking Mechanic To Player Character (Done)
 Added SCP-173 (Not Finished)
+Added SCP-049 (Not Finished)
+  Added SCP-049-2 (Not Finished)
