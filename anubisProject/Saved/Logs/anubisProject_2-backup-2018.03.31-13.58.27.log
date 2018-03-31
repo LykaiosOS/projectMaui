@@ -1,0 +1,1405 @@
+﻿Log file open, 03/26/18 16:48:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: anubisProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1714326852) SRandInit(1714326852).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233457
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.129s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Lykaios (192.168.1.70:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.26-23.48.45:254][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.26-23.48.45:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.26-23.48.45:310][  0]LogInit: Computer: LYKAIOS
+[2018.03.26-23.48.45:310][  0]LogInit: User: Gavin
+[2018.03.26-23.48.45:310][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.26-23.48.45:310][  0]LogInit: High frequency timer resolution =3.417982 MHz
+[2018.03.26-23.48.45:310][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.03.26-23.48.45:310][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.26-23.48.45:310][  0]LogMemory: Process Physical Memory: 272.75 MB used, 272.75 MB peak
+[2018.03.26-23.48.45:310][  0]LogMemory: Process Virtual Memory: 266.15 MB used, 266.15 MB peak
+[2018.03.26-23.48.45:310][  0]LogMemory: Physical Memory: 9382.39 MB used,  6953.46 MB free, 16335.84 MB total
+[2018.03.26-23.48.45:310][  0]LogMemory: Virtual Memory: 688.89 MB used,  6953.46 MB free, 134217728.00 MB total
+[2018.03.26-23.48.45:328][  0]LogInit: Using OS detected language (en-US).
+[2018.03.26-23.48.45:328][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.26-23.48.45:417][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.26-23.48.45:925][  0]LogStreaming: Display: Took  0.598s to EndInitTextLocalization.
+[2018.03.26-23.48.45:926][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.26-23.48.46:069][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.03.26-23.48.46:069][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.03.26-23.48.48:041][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.26-23.48.48:148][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.03.26-23.48.48:148][  0]LogD3D11RHI:       6061/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.26-23.48.48:150][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.26-23.48.48:150][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.26-23.48.48:150][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.26-23.48.48:158][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.26-23.48.48:158][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.26-23.48.48:158][  0]LogWindows: EnumDisplayDevices:
+[2018.03.26-23.48.48:158][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.03.26-23.48.48:158][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.26-23.48.48:158][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.26-23.48.48:158][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.03.26-23.48.48:158][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.26-23.48.48:158][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.03.26-23.48.48:158][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.26-23.48.48:158][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.26-23.48.48:158][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.03.26-23.48.48:188][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.03.26-23.48.48:188][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.26-23.48.48:210][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.26-23.48.48:211][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Intermediate/Shaders/WorkingDirectory/144776/).
+[2018.03.26-23.48.48:211][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gavin/AppData/Local/Temp/UnrealShaderWorkingDir/D834AE45450371D7AFD25BBD7495D851/'.
+[2018.03.26-23.48.48:539][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.26-23.48.48:553][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.26-23.48.48:565][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.26-23.48.48:578][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.26-23.48.48:602][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.26-23.48.48:614][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.26-23.48.48:627][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.26-23.48.48:639][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.26-23.48.48:646][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.26-23.48.48:657][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.26-23.48.48:672][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.26-23.48.48:684][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.26-23.48.48:697][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.03.26-23.48.48:709][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.26-23.48.48:721][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.26-23.48.48:745][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.26-23.48.48:745][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.26-23.48.48:768][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.26-23.48.48:769][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.26-23.48.48:819][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.26-23.48.48:830][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.26-23.48.48:842][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.26-23.48.48:853][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.26-23.48.48:864][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.26-23.48.48:883][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.26-23.48.48:883][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.26-23.48.49:037][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.03.26-23.48.49:037][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.03.26-23.48.49:037][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.26-23.48.50:761][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.26-23.48.51:250][  0]LogDerivedDataCache: Loaded boot cache 0.49s 74MB C:/Users/Gavin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.26-23.48.51:250][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gavin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.03.26-23.48.51:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.26-23.48.51:250][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.26-23.48.51:250][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.26-23.48.51:250][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.26-23.48.51:267][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.26-23.48.51:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gavin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.26-23.48.51:293][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.26-23.48.51:293][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.26-23.48.51:322][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.26-23.48.51:322][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.26-23.48.52:152][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.03.26-23.48.52:462][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.26-23.48.52:635][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.26-23.48.52:638][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.26-23.48.52:638][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.26-23.48.52:638][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.26-23.48.52:638][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.26-23.48.52:638][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.26-23.48.52:676][  0]LogNetVersion: anubisProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1337216142)
+[2018.03.26-23.48.53:326][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.113728 seconds
+[2018.03.26-23.48.53:336][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.03.26-23.48.53:336][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.03.26-23.48.53:336][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.26-23.49.15:278][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.26-23.49.15:305][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.26-23.49.15:718][  0]SourceControl: Source control is disabled
+[2018.03.26-23.49.15:718][  0]SourceControl: Source control is disabled
+[2018.03.26-23.49.15:735][  0]SourceControl: Source control is disabled
+[2018.03.26-23.49.15:751][  0]SourceControl: Source control is disabled
+[2018.03.26-23.49.16:281][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.26-23.49.16:413][  0]LogOcInput: OculusInput pre-init called
+[2018.03.26-23.49.16:565][  0]LogEngine: Initializing Engine...
+[2018.03.26-23.49.16:566][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.26-23.49.16:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.26-23.49.16:577][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.26-23.49.17:134][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.26-23.49.17:140][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-23.49.17:179][  0]LogInit: FAudioDevice initialized.
+[2018.03.26-23.49.17:317][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/Gavin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.26-23.49.17:336][  0]LogInit: Texture streaming: Enabled
+[2018.03.26-23.49.17:352][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.26-23.49.17:368][  0]LogInit: Transaction tracking system initialized
+[2018.03.26-23.49.17:390][  0]BlueprintLog: New page: Editor Load
+[2018.03.26-23.49.17:514][  0]LocalizationService: Localization service is disabled
+[2018.03.26-23.49.17:800][  0]LogConsoleResponse: Display: 
+[2018.03.26-23.49.18:322][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.26-23.49.18:322][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.26-23.49.18:322][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.26-23.49.18:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.26-23.49.18:322][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.26-23.49.18:947][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/' took 0.02s
+[2018.03.26-23.49.18:947][  0]SourceControl: Source control is disabled
+[2018.03.26-23.49.18:947][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-23.49.18:948][  0]LightingResults: New page: Lighting Build
+[2018.03.26-23.49.18:951][  0]MapCheck: New page: Map Check
+[2018.03.26-23.49.18:951][  0]LightingResults: New page: Lighting Build
+[2018.03.26-23.49.19:500][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.295517ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.03.26-23.49.19:514][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.954970ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.03.26-23.49.19:589][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.26-23.49.19:632][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-23.49.19:645][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-23.49.19:710][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.66ms to complete.
+[2018.03.26-23.49.19:710][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.763
+[2018.03.26-23.49.19:898][  0]LogCollectionManager: Loaded 0 collections in 0.001835 seconds
+[2018.03.26-23.49.19:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Collections/' took 0.01s
+[2018.03.26-23.49.19:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/Developers/Gavin/Collections/' took 0.01s
+[2018.03.26-23.49.19:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/Collections/' took 0.01s
+[2018.03.26-23.49.19:938][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.26-23.49.19:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2452 classes and 558 folders.
+[2018.03.26-23.49.19:954][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.26-23.49.20:512][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.26-23.49.20:517][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.26-23.49.20:571][  0]LogSlate: Took 0.038174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.26-23.49.20:585][  0]LogSlate: Took 0.011949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.26-23.49.20:614][  0]LogSlate: Took 0.023836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.26-23.49.20:789][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.26-23.49.20:978][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.26-23.49.20:978][  0]LogLoad: (Engine Initialization) Total time: 40.01 seconds
+[2018.03.26-23.49.20:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.26-23.49.21:006][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.26-23.49.21:088][  0]LogSlate: Took 0.009266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.26-23.49.21:105][  1]LogAssetRegistry: Asset discovery search completed in 28.9758 seconds
+[2018.03.26-23.49.21:107][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.26-23.49.21:107][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.03.26-23.49.26:334][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.49.45:753][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2018.03.26-23.49.50:527][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2018.03.26-23.49.55:707][579]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.03.26-23.50.02:283][201]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.03.26-23.50.03:793][349]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.03.26-23.50.05:279][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2018.03.26-23.50.07:784][708]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.03.26-23.50.13:269][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.50.13:328][221]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.26-23.50.13:387][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.50.13:415][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-23.50.13:475][221]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 9:50:13 AM)
+[2018.03.26-23.50.13:482][221]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.26-23.50.13:622][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140390s)
+[2018.03.26-23.50.13:623][221]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.26-23.50.13:623][221]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.03.26-23.50.13:623][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.141489s)
+[2018.03.26-23.50.13:716][221]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-23.50.13:732][221]LogInit: FAudioDevice initialized.
+[2018.03.26-23.50.13:809][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-23.50.13:938][221]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-16.50.13
+[2018.03.26-23.50.13:988][221]LogWorld: Bringing up level for play took: 0.063809
+[2018.03.26-23.50.14:089][221]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.26-23.50.14:108][221]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.455
+[2018.03.26-23.50.14:108][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.50.28:493][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.50.28:589][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.50.35:169][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.51.02:099][835]LogSlate: Took 0.010538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.26-23.51.02:447][835]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.03.26-23.51.03:526][835]LogSlate: Took 0.007653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.26-23.51.03:954][836]LogSlate: Took 0.012559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.26-23.51.34:505][607]LogSlate: Window 'scp173BP*' being destroyed
+[2018.03.26-23.51.34:509][607]LogSlate: Window 'scp173BP*' being destroyed
+[2018.03.26-23.51.42:359][ 66]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.26-23.52.15:854][293]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.03.26-23.52.32:138][105]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2018.03.26-23.52.50:524][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.52.55:691][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.53.06:315][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.26-23.53.16:587][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.26-23.53.24:887][712]LogEditorTransaction: Undo Modify Component(s)
+[2018.03.26-23.53.26:568][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.56.17:358][938]BlueprintLog: New page: Compile SCP_173
+[2018.03.26-23.56.22:166][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.56.26:101][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.56.29:741][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.56.29:782][904]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.26-23.56.29:802][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.56.29:823][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.26-23.56.29:823][904]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 9:56:29 AM)
+[2018.03.26-23.56.29:823][904]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.26-23.56.29:870][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046720s)
+[2018.03.26-23.56.29:871][904]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.26-23.56.29:871][904]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2018.03.26-23.56.29:871][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.048200s)
+[2018.03.26-23.56.29:919][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-23.56.29:934][904]LogInit: FAudioDevice initialized.
+[2018.03.26-23.56.29:971][904]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.26-23.56.29:973][904]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-16.56.29
+[2018.03.26-23.56.29:974][904]LogWorld: Bringing up level for play took: 0.002108
+[2018.03.26-23.56.29:975][904]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.678
+[2018.03.26-23.56.29:975][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.56.38:608][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.56.38:641][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.26-23.56.40:648][ 88]LogEditorViewport: Clicking on Actor (LMB): SCP_173_C (SCP_173)
+[2018.03.26-23.56.41:887][203]Cmd: DELETE
+[2018.03.26-23.56.41:887][203]Cmd: ACTOR DELETE
+[2018.03.26-23.56.41:943][203]LogEditorActor: Deleted Actor: SCP_173_C
+[2018.03.26-23.56.41:969][203]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2018.03.26-23.56.46:150][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.26-23.56.49:861][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.26-23.57.00:625][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.57.00:659][775]BlueprintLog: New page: Compile SCP_173
+[2018.03.26-23.57.17:168][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.57.25:283][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.57.30:397][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.57.38:416][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.57.54:015][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.57.54:029][296]BlueprintLog: New page: Compile SCP_173
+[2018.03.26-23.57.58:145][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.58.15:991][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.58.18:906][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.58.40:958][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.26-23.58.43:025][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.58.46:253][413]BlueprintLog: New page: Compile SCP_173
+[2018.03.26-23.58.49:381][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.59.04:509][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.26-23.59.06:086][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.59.15:190][972]BlueprintLog: New page: Compile SCP_173
+[2018.03.26-23.59.28:205][ 85]LogSlate: Window 'SCP_173*' being destroyed
+[2018.03.26-23.59.29:986][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.26-23.59.32:466][533]LogSlate: Window 'SCP_173*' being destroyed
+[2018.03.26-23.59.54:621][ 75]BlueprintLog: New page: Compile SCP_173
+[2018.03.27-00.00.20:316][  3]LogSavePackage: Save=134.75ms
+[2018.03.27-00.00.20:316][  3]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto181112AD34F2E53A44CE6A6BDF35A0707.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.03.27-00.00.20:317][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.03.27-00.00.20:336][  3]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.258
+[2018.03.27-00.00.20:336][  3]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.258
+[2018.03.27-00.00.20:340][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/SCP_173] ([1] browsable assets)...
+[2018.03.27-00.00.20:358][  3]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/SCP_173.SCP_173]
+[2018.03.27-00.00.20:359][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SCP_173]
+[2018.03.27-00.00.20:359][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP_173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-00.00.20:377][  3]LogSavePackage: Save=16.44ms
+[2018.03.27-00.00.20:377][  3]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP_173_Auto19B0AB1D743DCE952730C2EB51EE62213.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto1.uasset'
+[2018.03.27-00.00.20:378][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto1.uasset
+[2018.03.27-00.00.20:378][  3]LogFileHelpers: Auto-saving content packages took 0.039
+[2018.03.27-00.01.14:817][242]BlueprintLog: New page: Compile SCP_173
+[2018.03.27-00.01.32:544][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.01.57:794][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.02.03:641][440]Cmd: DELETE
+[2018.03.27-00.02.03:641][440]Cmd: ACTOR DELETE
+[2018.03.27-00.02.03:643][440]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.03.27-00.02.03:707][440]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2018.03.27-00.02.05:030][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.02.06:781][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.02.35:332][826]Cmd: DELETE
+[2018.03.27-00.02.35:332][826]Cmd: ACTOR DELETE
+[2018.03.27-00.02.35:334][826]LogEditorActor: Deleted Actor: NavModifierVolume
+[2018.03.27-00.02.35:352][826]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.03.27-00.02.36:915][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.03.27:992][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.27-00.04.34:246][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.05.20:359][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.06.46:401][773]LogEditorViewport: Clicking on Actor (LMB): SCP_173_C (SCP_173)
+[2018.03.27-00.06.54:719][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.06.54:771][610]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.06.54:788][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.06.54:789][610]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.27-00.06.54:791][610]LogPlayLevel: [PlayLevel] Compiling SCP_173 before play...
+[2018.03.27-00.06.55:158][610]LogPlayLevel: PlayLevel: Blueprint regeneration took 369 ms (1 blueprints)
+[2018.03.27-00.06.55:158][610]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:06:55 AM)
+[2018.03.27-00.06.55:158][610]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.06.55:206][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047285s)
+[2018.03.27-00.06.55:206][610]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.06.55:207][610]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2018.03.27-00.06.55:207][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.048747s)
+[2018.03.27-00.06.55:234][610]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.06.55:251][610]LogInit: FAudioDevice initialized.
+[2018.03.27-00.06.55:285][610]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.06.55:287][610]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.06.55
+[2018.03.27-00.06.55:287][610]LogWorld: Bringing up level for play took: 0.002018
+[2018.03.27-00.06.55:304][610]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.651
+[2018.03.27-00.06.55:304][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.07.02:399][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.07.02:432][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.07.05:106][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.08.01:763][ 62]LogSlate: Took 0.013868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.27-00.10.08:016][256]BlueprintLog: New page: Compile SCP_173
+[2018.03.27-00.10.18:133][295]LogEditorViewport: Clicking on Actor (LMB): SCP_173_C (SCP_173)
+[2018.03.27-00.10.20:472][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.27-00.10.22:097][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.10.22:124][695]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.10.22:150][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.10.22:150][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.10.22:150][695]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:10:22 AM)
+[2018.03.27-00.10.22:150][695]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.10.22:220][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069447s)
+[2018.03.27-00.10.22:220][695]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.10.22:221][695]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.03.27-00.10.22:221][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.070742s)
+[2018.03.27-00.10.22:250][695]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.10.22:268][695]LogInit: FAudioDevice initialized.
+[2018.03.27-00.10.22:301][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.10.22:303][695]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.10.22
+[2018.03.27-00.10.22:303][695]LogWorld: Bringing up level for play took: 0.002044
+[2018.03.27-00.10.22:304][695]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.349
+[2018.03.27-00.10.22:305][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.10.30:049][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.10.30:089][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.10.31:469][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.10.43:727][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.10.49:197][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.10.57:744][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.12.05:096][542]LogSavePackage: Save=135.77ms
+[2018.03.27-00.12.05:096][542]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto28CEE636A4A8794751F8DE2A8D8F707F6.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.03.27-00.12.05:099][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.03.27-00.12.05:103][542]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.283
+[2018.03.27-00.12.05:103][542]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.283
+[2018.03.27-00.12.05:106][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/SCP_173] ([1] browsable assets)...
+[2018.03.27-00.12.05:124][542]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/SCP_173.SCP_173]
+[2018.03.27-00.12.05:124][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SCP_173]
+[2018.03.27-00.12.05:124][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP_173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-00.12.05:166][542]LogSavePackage: Save=38.97ms
+[2018.03.27-00.12.05:166][542]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP_173_Auto21BEAD46045A1BFE58BD57199EA09AC8D.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto2.uasset'
+[2018.03.27-00.12.05:167][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto2.uasset
+[2018.03.27-00.12.05:167][542]LogFileHelpers: Auto-saving content packages took 0.062
+[2018.03.27-00.15.29:039][942]BlueprintLog: New page: Compile SCP_173
+[2018.03.27-00.15.31:995][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.15.32:025][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.15.32:026][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.15.32:026][204]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:15:32 AM)
+[2018.03.27-00.15.32:026][204]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.15.32:118][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091770s)
+[2018.03.27-00.15.32:119][204]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.15.32:119][204]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2018.03.27-00.15.32:119][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.093098s)
+[2018.03.27-00.15.32:148][204]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.15.32:164][204]LogInit: FAudioDevice initialized.
+[2018.03.27-00.15.32:200][204]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.15.32:202][204]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.15.32
+[2018.03.27-00.15.32:203][204]LogWorld: Bringing up level for play took: 0.002093
+[2018.03.27-00.15.32:204][204]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.449
+[2018.03.27-00.15.32:204][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.15.41:043][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.15.41:089][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.15.42:375][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.17.08:548][596]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/SCP-173.SKEL_SCP-173_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter1.PackageMetaData'
+[2018.03.27-00.17.08:548][596]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter1.PackageMetaData'
+[2018.03.27-00.17.08:697][596]LogSavePackage: Save=88.89ms
+[2018.03.27-00.17.08:697][596]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP-173DCCB99374ECC5C53111043AD0341FFFC.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/FirstPersonBP/Blueprints/SCP-173.uasset'
+[2018.03.27-00.17.08:701][596]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/FirstPersonBP/Blueprints/SCP-173.uasset
+[2018.03.27-00.17.14:720][986]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.17.20:804][601]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.20:806][601]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.20:808][601]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.20:833][601]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.24:552][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.24:554][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.24:556][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.24:582][976]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.26:281][158]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.26:283][158]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.26:285][158]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.26:307][158]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.27:667][311]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.27:669][311]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.27:671][311]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.27:712][311]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:178][349]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:179][349]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:180][349]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:203][349]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:572][390]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:573][390]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:573][390]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.28:597][390]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.30:724][618]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.30:725][618]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.30:726][618]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.30:752][618]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.37:502][374]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.37:503][374]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.37:504][374]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.37:527][374]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.37:858][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.17.41:738][814]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_104 via property FP_Gun, but TRASH_SkeletalMeshComponent_104 is pending kill
+	SCP-173_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter1_C_0
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.41:740][814]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_114 via property FP_Gun, but TRASH_SkeletalMeshComponent_114 is pending kill
+	SCP-173_C /Engine/Transient.World_10:PersistentLevel.SCP-173_C_1
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.41:741][814]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_124 via property FP_Gun, but TRASH_SkeletalMeshComponent_124 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_62
+	Function /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.17.42:950][943]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.17.42:965][943]LogBlueprint: Error: [Compiler SCP-173] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.03.27-00.17.43:289][943]LogBlueprint: Warning: [Compiler SCP-173] [1742.31] Compile of SCP-173 failed. 1 Fatal Issue(s) 0 Warning(s) [in 332 ms] (/Game/FirstPersonBP/Blueprints/SCP-173.SCP-173)
+[2018.03.27-00.17.46:425][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.17.52:596][987]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.17.52:600][987]LogBlueprint: Error: [Compiler SCP-173] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.03.27-00.17.52:933][987]LogBlueprint: Warning: [Compiler SCP-173] [1751.97] Compile of SCP-173 failed. 1 Fatal Issue(s) 0 Warning(s) [in 336 ms] (/Game/FirstPersonBP/Blueprints/SCP-173.SCP-173)
+[2018.03.27-00.18.08:271][680]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.18.08:275][680]LogBlueprint: Error: [Compiler SCP-173] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.03.27-00.18.08:586][680]LogBlueprint: Warning: [Compiler SCP-173] [1767.62] Compile of SCP-173 failed. 1 Fatal Issue(s) 0 Warning(s) [in 315 ms] (/Game/FirstPersonBP/Blueprints/SCP-173.SCP-173)
+[2018.03.27-00.18.18:458][796]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.18.29:897][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.18.31:968][271]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.19.01:393][504]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.19.10:423][452]LogEditorViewport: Clicking on Actor (LMB): SCP_173_C (SCP_173)
+[2018.03.27-00.19.11:710][568]Cmd: DELETE
+[2018.03.27-00.19.11:710][568]Cmd: ACTOR DELETE
+[2018.03.27-00.19.11:713][568]LogEditorActor: Deleted Actor: SCP_173_C
+[2018.03.27-00.19.11:762][568]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.03.27-00.19.12:539][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.19.15:708][926]Cmd: DELETE
+[2018.03.27-00.19.15:708][926]Cmd: ACTOR DELETE
+[2018.03.27-00.19.15:711][926]LogEditorActor: Deleted Actor: SCP-173_C
+[2018.03.27-00.19.15:733][926]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.03.27-00.19.16:162][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.19.22:307][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.19.23:587][761]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.19.26:652][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.19.36:218][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.19.38:378][180]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.19.38:397][180]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.19.38:397][180]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.27-00.19.38:401][180]LogPlayLevel: [PlayLevel] Compiling SCP_173 before play...
+[2018.03.27-00.19.38:648][180]LogPlayLevel: PlayLevel: Blueprint regeneration took 250 ms (1 blueprints)
+[2018.03.27-00.19.38:648][180]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:19:38 AM)
+[2018.03.27-00.19.38:648][180]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.19.38:673][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024815s)
+[2018.03.27-00.19.38:675][180]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.19.38:675][180]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2018.03.27-00.19.38:675][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026821s)
+[2018.03.27-00.19.38:714][180]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.19.38:732][180]LogInit: FAudioDevice initialized.
+[2018.03.27-00.19.38:766][180]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.19.38:769][180]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.19.38
+[2018.03.27-00.19.38:855][180]LogWorld: Bringing up level for play took: 0.088163
+[2018.03.27-00.19.38:857][180]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.204
+[2018.03.27-00.19.38:857][180]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.19.46:610][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.19.46:650][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.19.47:569][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.22.23:088][152]LogSavePackage: Save=153.58ms
+[2018.03.27-00.22.23:088][152]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto3D0812FD14DA6D9CA37BE67ADF12D00CE.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.03.27-00.22.23:090][152]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.03.27-00.22.23:095][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.356
+[2018.03.27-00.22.23:095][152]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.356
+[2018.03.27-00.22.23:097][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/SCP_173] ([1] browsable assets)...
+[2018.03.27-00.22.23:115][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/SCP_173.SCP_173]
+[2018.03.27-00.22.23:115][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SCP_173]
+[2018.03.27-00.22.23:115][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP_173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-00.22.23:140][152]LogSavePackage: Save=22.81ms
+[2018.03.27-00.22.23:140][152]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP_173_Auto34C368B2C4B4BB233A52A27A09BDA7794.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto3.uasset'
+[2018.03.27-00.22.23:142][152]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP_173_Auto3.uasset
+[2018.03.27-00.22.23:142][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/SCP-173] ([1] browsable assets)...
+[2018.03.27-00.22.23:159][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/SCP-173.SCP-173]
+[2018.03.27-00.22.23:160][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/SCP-173]
+[2018.03.27-00.22.23:194][152]LogSavePackage: Save=27.25ms
+[2018.03.27-00.22.23:194][152]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP-173_Auto3DB2FC7D74E8B5D98391F908576F5101D.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/SCP-173_Auto3.uasset'
+[2018.03.27-00.22.23:195][152]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/SCP-173_Auto3.uasset
+[2018.03.27-00.22.23:195][152]LogFileHelpers: Auto-saving content packages took 0.099
+[2018.03.27-00.23.07:904][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.23.21:942][125]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.23.24:821][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.23.24:849][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.23.24:850][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.23.24:850][388]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:23:24 AM)
+[2018.03.27-00.23.24:850][388]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.23.24:899][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049044s)
+[2018.03.27-00.23.24:900][388]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.23.24:900][388]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.03.27-00.23.24:900][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.050258s)
+[2018.03.27-00.23.24:973][388]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.23.24:995][388]LogInit: FAudioDevice initialized.
+[2018.03.27-00.23.25:027][388]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.23.25:030][388]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.23.25
+[2018.03.27-00.23.25:031][388]LogWorld: Bringing up level for play took: 0.002932
+[2018.03.27-00.23.25:033][388]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.38
+[2018.03.27-00.23.25:033][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.23.36:531][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.23.36:567][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.23.49:431][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.24.18:960][295]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.27-00.24.19:013][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.27-00.24.55:062][971]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.03.27-00.25.08:463][213]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.27-00.25.13:208][568]LogSlate: Window 'SCP-173*' being destroyed
+[2018.03.27-00.25.48:091][432]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.25.50:722][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.25.52:146][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.25.58:041][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.26.00:354][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.26.00:413][712]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.26.06:924][354]Cmd: TRANSACTION UNDO
+[2018.03.27-00.26.06:924][354]LogEditorTransaction: Undo Scale Actors
+[2018.03.27-00.26.10:020][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.26.20:281][693]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.27.31:259][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.27.35:971][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.27.39:161][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.27.39:228][563]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.27.39:254][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.27.39:254][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.27.39:255][563]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:27:39 AM)
+[2018.03.27-00.27.39:255][563]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.27.39:327][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072290s)
+[2018.03.27-00.27.39:328][563]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.27.39:328][563]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.03.27-00.27.39:328][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.073537s)
+[2018.03.27-00.27.39:357][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.27.39:371][563]LogInit: FAudioDevice initialized.
+[2018.03.27-00.27.39:406][563]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.27.39:408][563]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.27.39
+[2018.03.27-00.27.39:409][563]LogWorld: Bringing up level for play took: 0.002270
+[2018.03.27-00.27.39:410][563]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.757
+[2018.03.27-00.27.39:410][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.27.46:497][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.27.46:533][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.27.47:000][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.29.24:967][954]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.27-00.29.27:490][ 74]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.27-00.30.04:766][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:766][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:766][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:VR_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:766][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:VR_Marker' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:R_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:L_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:Mesh2P' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:UsingMotionControllers?' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SKEL_SCP-173_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:BaseLookUpRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:BaseTurnRate' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:GunOffset' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:FirstPersonCamera' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:Mesh2P' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:FP_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:Sphere' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:L_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:R_MotionController' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:VR_Marker' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:VR_Gun' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:ExecuteUbergraph_SCP-173' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:767][  6]LogMetaData: Removing '/Game/AI/SCP-173.SCP-173_C:InpTchEvt_K2Node_InputTouchEvent_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/SCP-173.PackageMetaData'
+[2018.03.27-00.30.04:798][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP-173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/AI/SCP-173.uasset" SILENT=true
+[2018.03.27-00.30.04:874][  6]LogSavePackage: Save=73.45ms
+[2018.03.27-00.30.04:874][  6]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP-173D5B29AAB45144F935A3793952D9FA9B2.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/AI/SCP-173.uasset'
+[2018.03.27-00.30.04:879][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Content/AI/SCP-173.uasset
+[2018.03.27-00.30.16:741][111]LogSlate: Window 'SCP-173' being destroyed
+[2018.03.27-00.30.27:595][ 40]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_4818 via property FP_Gun, but TRASH_SkeletalMeshComponent_4818 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_4729
+	Function /Game/AI/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.30.27:595][ 40]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_4822 via property FP_Gun, but TRASH_SkeletalMeshComponent_4822 is pending kill
+	SCP-173_C /Engine/Transient.World_14:PersistentLevel.SCP-173_C_4730
+	Function /Game/AI/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.30.28:280][113]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_4818 via property FP_Gun, but TRASH_SkeletalMeshComponent_4818 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_4729
+	Function /Game/AI/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.30.28:280][113]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_4822 via property FP_Gun, but TRASH_SkeletalMeshComponent_4822 is pending kill
+	SCP-173_C /Engine/Transient.World_14:PersistentLevel.SCP-173_C_4730
+	Function /Game/AI/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.30.28:916][175]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_4818 via property FP_Gun, but TRASH_SkeletalMeshComponent_4818 is pending kill
+	SCP-173_C /Engine/Transient.World_9:PersistentLevel.SCP-173_C_4729
+	Function /Game/AI/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.30.28:916][175]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_4822 via property FP_Gun, but TRASH_SkeletalMeshComponent_4822 is pending kill
+	SCP-173_C /Engine/Transient.World_14:PersistentLevel.SCP-173_C_4730
+	Function /Game/AI/SCP-173.SCP-173_C:UserConstructionScript:0017
+[2018.03.27-00.30.31:172][433]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.30.31:176][433]LogBlueprint: Error: [Compiler SCP-173] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.03.27-00.30.31:414][433]LogBlueprint: Warning: [Compiler SCP-173] [2510.45] Compile of SCP-173 failed. 1 Fatal Issue(s) 0 Warning(s) [in 241 ms] (/Game/AI/SCP-173.SCP-173)
+[2018.03.27-00.30.35:448][881]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.30.35:452][881]LogBlueprint: Error: [Compiler SCP-173] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.03.27-00.30.35:701][881]LogBlueprint: Warning: [Compiler SCP-173] [2514.73] Compile of SCP-173 failed. 1 Fatal Issue(s) 0 Warning(s) [in 253 ms] (/Game/AI/SCP-173.SCP-173)
+[2018.03.27-00.31.31:893][316]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.31.38:831][ 45]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.31.55:678][852]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.32.21:686][633]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.32.25:401][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.32.33:462][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.32.33:521][730]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.32.33:536][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.32.33:536][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.32.33:536][730]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:32:33 AM)
+[2018.03.27-00.32.33:536][730]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.32.33:592][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055465s)
+[2018.03.27-00.32.33:593][730]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.32.33:593][730]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.03.27-00.32.33:593][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.056585s)
+[2018.03.27-00.32.33:642][730]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.32.33:659][730]LogInit: FAudioDevice initialized.
+[2018.03.27-00.32.33:701][730]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.32.33:704][730]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.32.33
+[2018.03.27-00.32.33:704][730]LogWorld: Bringing up level for play took: 0.002389
+[2018.03.27-00.32.33:706][730]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.053
+[2018.03.27-00.32.33:706][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.32.49:081][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.32.49:121][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.32.50:006][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.33.54:428][597]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.39.38:934][ 86]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.39.39:411][ 87]LogPropertyNode: Warning: Clamp Min (100) >= Clamp Max (100) for Ranged Numeric property /Game/AI/SCP-173.SCP-173_C:MovingRadius
+[2018.03.27-00.39.39:411][ 87]LogPropertyNode: Warning: UI Min (100) >= UI Max (100) for Ranged Numeric property /Game/AI/SCP-173.SCP-173_C:MovingRadius
+[2018.03.27-00.39.42:819][453]LogPropertyNode: Warning: Clamp Min (100) >= Clamp Max (100) for Ranged Numeric property /Game/AI/SCP-173.SCP-173_C:MovingRadius
+[2018.03.27-00.39.42:819][453]LogPropertyNode: Warning: UI Min (100) >= UI Max (100) for Ranged Numeric property /Game/AI/SCP-173.SCP-173_C:MovingRadius
+[2018.03.27-00.39.45:829][789]LogPropertyNode: Warning: Clamp Min (100) >= Clamp Max (100) for Ranged Numeric property /Game/AI/SCP-173.SCP-173_C:MovingRadius
+[2018.03.27-00.39.45:829][789]LogPropertyNode: Warning: UI Min (100) >= UI Max (100) for Ranged Numeric property /Game/AI/SCP-173.SCP-173_C:MovingRadius
+[2018.03.27-00.40.05:676][835]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.42.09:847][154]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.42.18:322][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.42.18:345][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.42.18:346][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.42.18:346][ 26]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:42:18 AM)
+[2018.03.27-00.42.18:346][ 26]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.42.18:413][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067655s)
+[2018.03.27-00.42.18:414][ 26]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.42.18:415][ 26]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.03.27-00.42.18:415][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.069017s)
+[2018.03.27-00.42.18:441][ 26]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.42.18:458][ 26]LogInit: FAudioDevice initialized.
+[2018.03.27-00.42.18:490][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.42.18:493][ 26]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.42.18
+[2018.03.27-00.42.18:494][ 26]LogWorld: Bringing up level for play took: 0.003369
+[2018.03.27-00.42.18:525][ 26]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.128
+[2018.03.27-00.42.18:525][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.42.34:555][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.42.34:595][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.42.35:906][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.42.48:034][115]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.43.14:656][  0]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.43.14:696][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.43.14:696][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.43.14:697][  0]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:43:14 AM)
+[2018.03.27-00.43.14:697][  0]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.43.14:751][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053822s)
+[2018.03.27-00.43.14:752][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.43.14:752][  0]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.03.27-00.43.14:752][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.055107s)
+[2018.03.27-00.43.14:779][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.43.14:795][  0]LogInit: FAudioDevice initialized.
+[2018.03.27-00.43.14:831][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.43.14:833][  0]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.43.14
+[2018.03.27-00.43.14:834][  0]LogWorld: Bringing up level for play took: 0.002404
+[2018.03.27-00.43.14:835][  0]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.183
+[2018.03.27-00.43.14:836][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.43.40:157][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.43.40:198][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.43.48:130][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.44.01:946][556]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.44.27:751][428]LogSavePackage: Save=141.82ms
+[2018.03.27-00.44.27:752][428]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto469D2F9544BB4087E0CB4949953522F88.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.03.27-00.44.27:753][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.03.27-00.44.27:756][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.353
+[2018.03.27-00.44.27:756][428]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2018.03.27-00.44.27:758][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/SCP-173] ([1] browsable assets)...
+[2018.03.27-00.44.27:775][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/SCP-173.SCP-173]
+[2018.03.27-00.44.27:775][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SCP-173]
+[2018.03.27-00.44.27:775][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP-173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-00.44.27:827][428]LogSavePackage: Save=40.56ms
+[2018.03.27-00.44.27:827][428]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP-173_Auto4B49B615A49CA8BC065CD75BD31A54A32.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto4.uasset'
+[2018.03.27-00.44.27:828][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto4.uasset
+[2018.03.27-00.44.27:828][428]LogFileHelpers: Auto-saving content packages took 0.071
+[2018.03.27-00.48.16:747][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.48.25:529][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.48.32:547][432]LogEditorTransaction: Undo Set Scale
+[2018.03.27-00.48.32:551][432]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.SCP-173_C_4730.Arrow) Component already registered.
+[2018.03.27-00.48.32:551][432]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.SCP-173_C_4730.CharMoveComp) Component already registered.
+[2018.03.27-00.48.32:552][432]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_14:PersistentLevel.SCP-173_C_4730.CharacterMesh0) Component already registered.
+[2018.03.27-00.48.32:552][432]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SCP-173_1240.Arrow) Component already registered.
+[2018.03.27-00.48.32:552][432]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SCP-173_1240.CharMoveComp) Component already registered.
+[2018.03.27-00.48.32:553][432]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SCP-173_1240.CharacterMesh0) Component already registered.
+[2018.03.27-00.48.38:507][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.48.44:773][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.49.01:174][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.49.01:207][492]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.49.05:082][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.49.13:581][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.49.44:383][106]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.51.06:955][342]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.51.25:453][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.51.29:012][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.27-00.51.43:144][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.51.43:188][900]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.27-00.55.17:258][197]LogSavePackage: Save=137.43ms
+[2018.03.27-00.55.17:258][197]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto5F1AE86A845B7541BC1F8ADBD51A320D6.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2018.03.27-00.55.17:260][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2018.03.27-00.55.17:264][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.188
+[2018.03.27-00.55.17:264][197]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2018.03.27-00.55.17:267][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.27-00.55.17:278][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.03.27-00.55.17:279][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.27-00.55.17:361][197]LogSavePackage: Save=74.18ms
+[2018.03.27-00.55.17:361][197]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonCharacter_Auto5CDA3FF0D472EAD4DF8702DB942BC5F22.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2018.03.27-00.55.17:364][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset
+[2018.03.27-00.55.17:365][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/SCP-173] ([1] browsable assets)...
+[2018.03.27-00.55.17:377][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/SCP-173.SCP-173]
+[2018.03.27-00.55.17:377][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SCP-173]
+[2018.03.27-00.55.17:377][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP-173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-00.55.17:469][197]LogSavePackage: Save=46.01ms
+[2018.03.27-00.55.17:471][197]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP-173_Auto5890E7ECB44E5E8EA884ABD909CF07472.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto5.uasset'
+[2018.03.27-00.55.17:472][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto5.uasset
+[2018.03.27-00.55.17:472][197]LogFileHelpers: Auto-saving content packages took 0.207
+[2018.03.27-00.57.20:817][900]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.57.20:838][900]LogBlueprint: Error: [Compiler SCP-173] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2018.03.27-00.57.20:874][900]LogBlueprint: Error: [Compiler SCP-173] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.03.27-00.57.21:221][900]LogBlueprint: Warning: [Compiler SCP-173] [4120.25] Compile of SCP-173 failed. 2 Fatal Issue(s) 0 Warning(s) [in 403 ms] (/Game/AI/SCP-173.SCP-173)
+[2018.03.27-00.57.36:539][578]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.57.36:584][578]LogBlueprint: Warning: [Compiler SCP-173] 'First Person Character' does not inherit from 'SCP-173' ( Cast To FirstPersonCharacter  would always fail).
+[2018.03.27-00.57.36:972][578]LogBlueprint: Warning: [Compiler SCP-173] [4136.01] Compile of SCP-173 successful, but with 1 Warning(s) [in 432 ms] (/Game/AI/SCP-173.SCP-173)
+[2018.03.27-00.57.52:870][330]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.57.52:890][330]LogBlueprint: Warning: [Compiler SCP-173] 'First Person Character' does not inherit from 'SCP-173' ( Cast To FirstPersonCharacter  would always fail).
+[2018.03.27-00.57.53:276][330]LogBlueprint: Warning: [Compiler SCP-173] [4152.31] Compile of SCP-173 successful, but with 1 Warning(s) [in 405 ms] (/Game/AI/SCP-173.SCP-173)
+[2018.03.27-00.58.05:171][618]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.58.10:576][161]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.58.10:641][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.10:641][161]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.27-00.58.10:661][161]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.03.27-00.58.11:105][161]LogPlayLevel: PlayLevel: Blueprint regeneration took 463 ms (1 blueprints)
+[2018.03.27-00.58.11:105][161]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:58:11 AM)
+[2018.03.27-00.58.11:105][161]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.58.11:156][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050960s)
+[2018.03.27-00.58.11:157][161]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.58.11:158][161]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2018.03.27-00.58.11:158][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.052342s)
+[2018.03.27-00.58.11:183][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.58.11:198][161]LogInit: FAudioDevice initialized.
+[2018.03.27-00.58.11:229][161]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.58.11:232][161]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.58.11
+[2018.03.27-00.58.11:245][161]LogWorld: Bringing up level for play took: 0.015417
+[2018.03.27-00.58.11:247][161]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.594
+[2018.03.27-00.58.11:247][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.25:813][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.25:851][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.26:456][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.58.44:737][819]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-00.58.47:613][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-00.58.47:670][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.47:670][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-00.58.47:671][ 76]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 10:58:47 AM)
+[2018.03.27-00.58.47:671][ 76]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-00.58.47:712][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041036s)
+[2018.03.27-00.58.47:713][ 76]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-00.58.47:713][ 76]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2018.03.27-00.58.47:714][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042949s)
+[2018.03.27-00.58.47:746][ 76]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-00.58.47:769][ 76]LogInit: FAudioDevice initialized.
+[2018.03.27-00.58.47:807][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-00.58.47:809][ 76]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-17.58.47
+[2018.03.27-00.58.47:810][ 76]LogBlueprintUserMessages: [SCP-173_1240] Not Working
+[2018.03.27-00.58.47:810][ 76]LogBlueprintUserMessages: [SCP-173_1240] Not Working
+[2018.03.27-00.58.47:810][ 76]LogWorld: Bringing up level for play took: 0.002650
+[2018.03.27-00.58.47:811][ 76]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.158
+[2018.03.27-00.58.47:811][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.54:074][746]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.54:117][746]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-00.58.55:187][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-00.59.18:665][259]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.03.27-00.59.18:918][260]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.03.27-00.59.18:918][260]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.03.27-00.59.18:918][260]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.03.27-00.59.18:922][260]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.03.27-00.59.18:970][261]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.03.27-00.59.19:060][262]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.03.27-00.59.19:089][263]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.03.27-00.59.19:118][264]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.03.27-00.59.19:140][265]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.03.27-00.59.19:164][266]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.03.27-00.59.23:094][442]LogShaderCompilers: Display: Shaders left to compile 322
+[2018.03.27-00.59.23:094][442]LogShaderCompilers: Display: Shaders left to compile 312
+[2018.03.27-00.59.23:217][444]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.03.27-00.59.24:815][446]LogShaderCompilers: Display: Shaders left to compile 292
+[2018.03.27-00.59.25:146][447]LogShaderCompilers: Display: Shaders left to compile 282
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 272
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.03.27-00.59.35:209][448]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.03.27-00.59.35:515][449]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.03.27-00.59.36:583][450]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.03.27-00.59.37:559][451]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.03.27-00.59.42:423][452]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.03.27-00.59.42:423][452]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.03.27-00.59.42:423][452]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.03.27-00.59.42:423][452]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.03.27-00.59.42:423][452]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.03.27-00.59.42:423][452]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.03.27-00.59.45:468][453]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.03.27-00.59.45:468][453]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.03.27-00.59.45:468][453]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.03.27-00.59.46:182][454]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.03.27-00.59.46:447][455]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.03.27-00.59.47:277][456]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.03.27-01.00.21:096][ 49]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-01.00.21:118][ 49]LogBlueprint: Error: [Compiler SCP-173] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2018.03.27-01.00.21:119][ 49]LogBlueprint: Error: [Compiler SCP-173] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.03.27-01.00.21:473][ 49]LogBlueprint: Warning: [Compiler SCP-173] [4300.51] Compile of SCP-173 failed. 2 Fatal Issue(s) 0 Warning(s) [in 376 ms] (/Game/AI/SCP-173.SCP-173)
+[2018.03.27-01.00.44:714][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.27-01.00.44:757][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-01.00.44:757][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.27-01.00.46:993][522]LogSlate: Window 'Message' being destroyed
+[2018.03.27-01.00.46:998][522]PIE: New page: PIE session: FirstPersonExampleMap (Mar 26, 2018, 11:00:46 AM)
+[2018.03.27-01.00.46:998][522]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.03.27-01.00.47:027][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028297s)
+[2018.03.27-01.00.47:028][522]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.27-01.00.47:028][522]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2018.03.27-01.00.47:028][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030101s)
+[2018.03.27-01.00.47:060][522]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.27-01.00.47:076][522]LogInit: FAudioDevice initialized.
+[2018.03.27-01.00.47:107][522]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.27-01.00.47:109][522]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.03.26-18.00.47
+[2018.03.27-01.00.47:110][522]LogWorld: Bringing up level for play took: 0.002120
+[2018.03.27-01.00.47:111][522]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.458
+[2018.03.27-01.00.47:111][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-01.00.48:690][702]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-138.716 Y=-94.535 Z=294.252] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.48:704][703]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-104.294 Y=-118.379 Z=279.117] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.48:785][708]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-124.944 Y=-97.760 Z=298.551] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.48:823][710]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-120.219 Y=-96.086 Z=311.821] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.48:908][715]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-122.645 Y=-98.520 Z=317.073] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.48:945][717]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.550 Y=-97.069 Z=313.666] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:005][720]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.487 Y=-100.190 Z=293.184] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:036][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-121.131 Y=-98.963 Z=330.091] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:037][722]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-121.131 Y=-98.963 Z=330.091] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:065][724]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-126.819 Y=-89.782 Z=304.652] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:065][724]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-126.819 Y=-89.782 Z=304.652] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:123][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-78.237 Y=-99.409 Z=306.336] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:123][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-78.237 Y=-99.409 Z=306.336] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:124][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-78.237 Y=-99.409 Z=306.336] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:172][728]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-79.710 Y=-96.794 Z=305.998] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:221][732]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-100.735 Y=-106.598 Z=311.015] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:222][732]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-100.735 Y=-106.598 Z=311.015] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:232][733]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-123.112 Y=-97.629 Z=305.375] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:246][734]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-108.158 Y=-106.994 Z=323.510] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:257][735]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.772 Y=-104.350 Z=309.279] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:284][737]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.496 Y=-103.862 Z=333.150] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:285][737]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.496 Y=-103.862 Z=333.150] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:311][739]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-122.690 Y=-99.980 Z=305.851] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:312][739]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-122.690 Y=-99.980 Z=305.851] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:376][744]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-111.399 Y=-87.356 Z=300.799] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:376][744]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-111.399 Y=-87.356 Z=300.799] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:400][746]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-106.955 Y=-92.007 Z=320.363] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:400][746]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-106.955 Y=-92.007 Z=320.363] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:460][751]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-121.452 Y=-99.049 Z=312.629] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:485][753]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-121.955 Y=-98.979 Z=294.845] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:509][755]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-111.982 Y=-100.441 Z=332.214] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:522][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.829 Y=-97.855 Z=320.234] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:523][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.829 Y=-97.855 Z=320.234] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:573][760]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-124.873 Y=-85.819 Z=283.550] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:586][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-122.350 Y=-101.722 Z=291.352] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:599][762]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-127.417 Y=-105.712 Z=289.922] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:614][763]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.252 Y=-107.028 Z=291.711] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:614][763]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.252 Y=-107.028 Z=291.711] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:664][766]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-120.421 Y=-90.163 Z=339.175] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:709][768]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.702 Y=-97.011 Z=318.079] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:768][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.169 Y=-100.576 Z=345.683] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:785][773]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-104.133 Y=-97.289 Z=305.750] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:786][773]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-104.133 Y=-97.289 Z=305.750] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:825][775]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.987 Y=-98.015 Z=300.671] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:840][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-108.851 Y=-97.402 Z=318.547] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:854][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-123.686 Y=-96.547 Z=302.164] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:855][777]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-123.686 Y=-96.547 Z=302.164] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:895][780]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.433 Y=-100.245 Z=304.823] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:896][780]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.433 Y=-100.245 Z=304.823] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:951][785]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-101.271 Y=-106.447 Z=324.956] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:962][786]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-120.736 Y=-99.578 Z=287.676] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:972][787]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.579 Y=-99.988 Z=318.379] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:985][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-133.166 Y=-96.945 Z=292.552] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.49:995][789]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-121.816 Y=-98.964 Z=305.326] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:018][791]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-110.943 Y=-85.419 Z=283.852] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:039][793]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-107.961 Y=-102.605 Z=310.002] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:050][794]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-108.871 Y=-92.786 Z=300.881] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:073][796]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-102.730 Y=-105.915 Z=333.272] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:095][798]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.517 Y=-95.168 Z=303.325] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:095][798]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.517 Y=-95.168 Z=303.325] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:106][799]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-138.116 Y=-93.024 Z=298.437] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:129][801]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-111.967 Y=-104.897 Z=285.436] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:129][801]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-111.967 Y=-104.897 Z=285.436] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:140][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-117.255 Y=-101.495 Z=281.487] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:162][804]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-123.339 Y=-95.399 Z=310.493] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:174][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-131.343 Y=-95.379 Z=304.441] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:187][806]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-120.240 Y=-99.243 Z=322.771] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:198][807]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-124.751 Y=-105.430 Z=316.893] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:211][808]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.300 Y=-105.977 Z=306.336] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:211][808]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.300 Y=-105.977 Z=306.336] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:235][810]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-126.628 Y=-108.406 Z=338.810] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:259][812]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-108.387 Y=-118.780 Z=327.874] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:284][814]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-137.838 Y=-114.553 Z=309.385] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:284][814]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-137.838 Y=-114.553 Z=309.385] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:308][816]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-137.164 Y=-123.862 Z=317.289] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:308][816]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-137.164 Y=-123.862 Z=317.289] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:341][819]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.783 Y=-121.452 Z=286.787] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:342][819]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.783 Y=-121.452 Z=286.787] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:353][820]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-122.345 Y=-116.805 Z=305.416] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:386][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-127.150 Y=-124.412 Z=314.106] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:397][824]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-132.085 Y=-125.670 Z=299.626] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:398][824]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-132.085 Y=-125.670 Z=299.626] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:421][826]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-127.845 Y=-125.573 Z=289.789] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:421][826]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-127.845 Y=-125.573 Z=289.789] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:520][834]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-141.896 Y=-124.309 Z=317.635] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:594][840]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-132.123 Y=-124.209 Z=338.002] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:618][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-134.289 Y=-121.176 Z=306.934] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:619][842]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-134.289 Y=-121.176 Z=306.934] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:644][844]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-131.232 Y=-125.228 Z=303.544] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:675][846]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-132.126 Y=-124.750 Z=298.895] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:675][846]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-132.126 Y=-124.750 Z=298.895] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:713][848]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-128.161 Y=-126.355 Z=311.423] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:714][848]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-128.161 Y=-126.355 Z=311.423] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:714][848]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-128.161 Y=-126.355 Z=311.423] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:738][850]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-125.816 Y=-130.844 Z=296.349] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:738][850]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-125.816 Y=-130.844 Z=296.349] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:763][852]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-126.167 Y=-134.604 Z=293.044] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:764][852]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-126.167 Y=-134.604 Z=293.044] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:777][853]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-125.747 Y=-138.447 Z=296.933] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:791][854]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-112.084 Y=-149.101 Z=304.935] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:791][854]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-112.084 Y=-149.101 Z=304.935] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:805][855]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-125.390 Y=-137.905 Z=323.979] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:820][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-141.699 Y=-137.509 Z=334.060] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:820][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-141.699 Y=-137.509 Z=334.060] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:846][858]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-141.344 Y=-147.183 Z=298.249] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:846][858]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-141.344 Y=-147.183 Z=298.249] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:900][862]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-145.821 Y=-154.414 Z=321.203] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:900][862]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-145.821 Y=-154.414 Z=321.203] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:912][863]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.699 Y=-156.192 Z=294.553] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:925][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.642 Y=-158.708 Z=329.325] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:936][865]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-145.910 Y=-157.529 Z=334.849] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:983][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-150.626 Y=-152.945 Z=294.151] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.50:984][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-150.626 Y=-152.945 Z=294.151] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:007][871]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-161.506 Y=-157.642 Z=314.706] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:007][871]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-161.506 Y=-157.642 Z=314.706] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:020][872]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-156.481 Y=-158.349 Z=312.593] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:043][874]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-150.308 Y=-159.438 Z=339.546] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:080][877]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-156.762 Y=-171.181 Z=302.089] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:081][877]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-156.762 Y=-171.181 Z=302.089] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:092][878]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-153.602 Y=-172.092 Z=291.979] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:105][879]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-154.768 Y=-170.104 Z=328.314] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:117][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-155.285 Y=-163.155 Z=337.394] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:129][881]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-157.069 Y=-159.499 Z=300.296] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:153][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-156.136 Y=-160.874 Z=287.784] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:165][884]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-162.483 Y=-159.046 Z=301.009] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:192][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-144.917 Y=-176.637 Z=285.016] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:193][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-144.917 Y=-176.637 Z=285.016] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:217][888]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-158.021 Y=-173.649 Z=312.663] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:217][888]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-158.021 Y=-173.649 Z=312.663] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:266][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-150.943 Y=-168.171 Z=286.409] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:266][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-150.943 Y=-168.171 Z=286.409] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:277][893]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-163.729 Y=-172.828 Z=286.395] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:290][894]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-155.866 Y=-165.633 Z=312.111] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:301][895]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-163.171 Y=-175.803 Z=317.463] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:314][896]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-146.102 Y=-146.620 Z=321.573] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:325][897]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-159.454 Y=-169.030 Z=309.793] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:349][899]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-152.513 Y=-173.167 Z=347.934] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:374][901]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-166.900 Y=-165.369 Z=314.935] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:374][901]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-166.900 Y=-165.369 Z=314.935] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:387][902]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-165.393 Y=-146.814 Z=300.813] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:399][903]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-173.251 Y=-176.256 Z=344.884] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:438][906]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.412 Y=-190.090 Z=324.507] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:450][907]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-188.049 Y=-193.381 Z=295.260] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:462][908]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-192.224 Y=-195.984 Z=322.517] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:462][908]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-192.224 Y=-195.984 Z=322.517] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:528][913]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-200.066 Y=-218.242 Z=355.559] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:543][914]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-212.456 Y=-189.983 Z=360.684] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:569][916]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-221.109 Y=-193.689 Z=384.742] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:582][917]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-220.438 Y=-202.048 Z=370.796] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:582][917]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-220.438 Y=-202.048 Z=370.796] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:605][919]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-225.649 Y=-197.995 Z=376.363] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:645][922]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-234.322 Y=-194.837 Z=410.967] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:684][924]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-237.497 Y=-193.193 Z=414.433] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:849][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:850][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:850][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:850][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:851][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:851][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:852][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:852][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:852][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:853][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:853][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:853][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:854][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:854][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:854][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:855][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-198.049 Y=-195.846 Z=393.088] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:913][927]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-266.543 Y=-178.242 Z=442.494] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:914][927]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-266.543 Y=-178.242 Z=442.494] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:914][927]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-266.543 Y=-178.242 Z=442.494] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:948][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.008 Y=-157.115 Z=412.384] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:949][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.008 Y=-157.115 Z=412.384] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:949][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.008 Y=-157.115 Z=412.384] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.51:950][928]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.008 Y=-157.115 Z=412.384] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:035][932]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-270.733 Y=-174.195 Z=432.424] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:035][932]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-270.733 Y=-174.195 Z=432.424] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:153][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:154][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:154][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:155][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:155][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:156][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:156][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:156][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:157][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:157][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:158][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-277.650 Y=-171.470 Z=467.134] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:191][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-270.911 Y=-170.661 Z=422.729] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:204][937]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-272.856 Y=-161.129 Z=432.100] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:241][940]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-268.292 Y=-163.196 Z=455.611] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:242][940]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-268.292 Y=-163.196 Z=455.611] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:302][945]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-273.868 Y=-165.475 Z=442.845] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:330][947]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.655 Y=-172.356 Z=469.595] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:330][947]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.655 Y=-172.356 Z=469.595] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:354][949]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-278.929 Y=-171.708 Z=448.349] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:365][950]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-275.094 Y=-154.951 Z=469.614] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:376][951]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-283.276 Y=-178.142 Z=418.041] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:436][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-289.415 Y=-166.774 Z=451.020] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:436][956]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-289.415 Y=-166.774 Z=451.020] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:493][961]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-273.611 Y=-166.789 Z=476.417] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:517][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-274.154 Y=-157.512 Z=438.242] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:530][964]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-274.282 Y=-161.297 Z=434.017] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:558][966]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-285.161 Y=-171.487 Z=466.616] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:596][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.735 Y=-173.945 Z=464.935] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:597][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-276.735 Y=-173.945 Z=464.935] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:647][973]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-278.439 Y=-177.618 Z=428.191] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:648][973]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-278.439 Y=-177.618 Z=428.191] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:704][975]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-280.686 Y=-185.541 Z=431.444] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:704][975]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-280.686 Y=-185.541 Z=431.444] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:705][975]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-280.686 Y=-185.541 Z=431.444] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.52:705][975]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-280.686 Y=-185.541 Z=431.444] for [FirstPersonProjectile_C]
+[2018.03.27-01.00.54:303][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-01.00.54:343][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.03.27-01.01.27:805][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.27-01.04.18:560][310]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-01.06.15:353][460]BlueprintLog: New page: Compile SCP-173
+[2018.03.27-01.06.50:667][678]LogSavePackage: Save=142.20ms
+[2018.03.27-01.06.50:667][678]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto645808FB247357FBE7FE231A69A0C5AA8.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2018.03.27-01.06.50:711][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2018.03.27-01.06.50:715][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.232
+[2018.03.27-01.06.50:715][678]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2018.03.27-01.06.50:718][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.27-01.06.50:738][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.03.27-01.06.50:738][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.27-01.06.50:812][678]LogSavePackage: Save=67.07ms
+[2018.03.27-01.06.50:813][678]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonCharacter_Auto6109F6A3A4CDDD5D8680F889D82673C21.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2018.03.27-01.06.50:814][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset
+[2018.03.27-01.06.50:815][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/SCP-173] ([1] browsable assets)...
+[2018.03.27-01.06.50:833][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/SCP-173.SCP-173]
+[2018.03.27-01.06.50:833][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/SCP-173]
+[2018.03.27-01.06.50:833][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SCP-173" FILE="../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.03.27-01.06.50:897][678]LogSavePackage: Save=42.74ms
+[2018.03.27-01.06.50:897][678]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/SCP-173_Auto63310E7EA425E59FEF782C3B634EE996B.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto6.uasset'
+[2018.03.27-01.06.50:898][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/AI/SCP-173_Auto6.uasset
+[2018.03.27-01.06.50:899][678]LogFileHelpers: Auto-saving content packages took 0.182
+[2018.03.27-01.07.52:862][716]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.27-01.12.57:430][224]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.03.27-01.16.50:978][282]LogSavePackage: Save=144.90ms
+[2018.03.27-01.16.50:978][282]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonExampleMap_Auto7EF174EEB4BD1338B68A3689F44792882.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2018.03.27-01.16.50:979][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap
+[2018.03.27-01.16.50:982][282]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.195
+[2018.03.27-01.16.50:982][282]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2018.03.27-01.16.50:985][282]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.03.27-01.16.51:004][282]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.03.27-01.16.51:004][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2018.03.27-01.16.51:094][282]LogSavePackage: Save=81.82ms
+[2018.03.27-01.16.51:094][282]LogSavePackage: Moving '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/FirstPersonCharacter_Auto7AA618C5244DE51F874B25EB13FD0120C.tmp' to '../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2018.03.27-01.16.51:096][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gavin/Documents/Unreal Projects/anubisProject 4.19/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset
+[2018.03.27-01.16.51:096][282]LogFileHelpers: Auto-saving content packages took 0.112
+[2018.03.27-01.24.38:825][498]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{77f16261-818a-4422-8c37-1b248c3ad3d7} was removed. Shutting down audio device.
+[2018.03.27-01.24.38:825][498]LogInit: XAudio2 using 'Headset Earphone (3- Razer ManO'War)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.27-01.24.55:571][548]LogInit: XAudio2 using 'Headset Earphone (3- Razer ManO'War)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
